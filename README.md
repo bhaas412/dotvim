@@ -1,1 +1,3 @@
 # dotvim
+
+Basic Vim configuration.
