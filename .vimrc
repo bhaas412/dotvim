@@ -25,5 +25,8 @@ set mouse=a
 " Show line numbers
 set number
 
+" Show ruler
+set ruler
+
 " Change foreground color of line numbers
 highlight LineNr ctermfg=darkgray
